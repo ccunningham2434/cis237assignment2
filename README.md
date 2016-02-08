@@ -1,8 +1,8 @@
-# Assignment 2 - Recursion, Multi-Dimensional Arrays, Transposition.
+﻿# Assignment 2 - Recursion, Multi-Dimensional Arrays, Transposition.
 
 ## Due 02-15-2016
 
-## Author
+## Author: Chad Cunningham
 
 ## Description
 
@@ -27,6 +27,7 @@ It might be useful while developing this program to use a smaller sized maze, an
 Don't forget that you must have a base case for your recursive method or you will continue to get a stack overflow. 
 
 ## Outside Resources Used
+None
 
 ## Known Problems, Issues, And/Or Errors in the Program
-
+None Known
